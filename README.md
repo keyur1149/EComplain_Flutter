@@ -3,7 +3,7 @@
 Our app provide the student to make complain about the problems they are facing in the university any problem regarding to university they can do direct complain about that problem any our app also provide that complain are sorted based upon the common factor such as professor, adminstartion etc. App can be access by only particular user which are studying in that university
 <br><br>
 
-<img src="image1.jpg" >
+<img src="project readme.jpg" >
 <br>
 
 
